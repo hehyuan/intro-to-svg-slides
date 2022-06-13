@@ -12,7 +12,7 @@ layout: intro
 title: Intro to SVG
 ---
 
-# Intro to SVG
+# Intro to SVGgg
 
 
 <div>
